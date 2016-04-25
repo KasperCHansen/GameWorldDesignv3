@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: ef85d4780613d0240acfc941a43cebed
+timeCreated: 1461241971
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: monolith
+    100004: monolith 1
+    100006: monolith1
+    100008: monolith1 1
+    100010: monolith2
+    100012: monolith2 1
+    100014: monolith3
+    100016: monolith3 1
+    100018: monolithClean
+    100020: monolithCut
+    100022: monolithPreCut_monolith27
+    100024: monolithPreCut_monolith27 1
+    100026: monolithPreCut_monolith29
+    100028: monolithPreCut_monolith29 1
+    100030: monolithPreCut_monolith30
+    100032: monolithPreCut_monolith30 1
+    100034: monolithPreCut_monolith31
+    100036: monolithPreCut_monolith31 1
+    100038: monolithPreTriangulate
+    100040: monolithPreTriangulate1
+    400000: //RootNode
+    400002: monolith
+    400004: monolith 1
+    400006: monolith1
+    400008: monolith1 1
+    400010: monolith2
+    400012: monolith2 1
+    400014: monolith3
+    400016: monolith3 1
+    400018: monolithClean
+    400020: monolithCut
+    400022: monolithPreCut_monolith27
+    400024: monolithPreCut_monolith27 1
+    400026: monolithPreCut_monolith29
+    400028: monolithPreCut_monolith29 1
+    400030: monolithPreCut_monolith30
+    400032: monolithPreCut_monolith30 1
+    400034: monolithPreCut_monolith31
+    400036: monolithPreCut_monolith31 1
+    400038: monolithPreTriangulate
+    400040: monolithPreTriangulate1
+    2300000: monolith
+    2300002: monolith 1
+    2300004: monolith1
+    2300006: monolith1 1
+    2300008: monolith2
+    2300010: monolith2 1
+    2300012: monolith3
+    2300014: monolith3 1
+    2300016: monolithPreCut_monolith27
+    2300018: monolithPreCut_monolith27 1
+    2300020: monolithPreCut_monolith29
+    2300022: monolithPreCut_monolith29 1
+    2300024: monolithPreCut_monolith30
+    2300026: monolithPreCut_monolith30 1
+    2300028: monolithPreCut_monolith31
+    2300030: monolithPreCut_monolith31 1
+    3300000: monolith
+    3300002: monolith 1
+    3300004: monolith1
+    3300006: monolith1 1
+    3300008: monolith2
+    3300010: monolith2 1
+    3300012: monolith3
+    3300014: monolith3 1
+    3300016: monolithPreCut_monolith27
+    3300018: monolithPreCut_monolith27 1
+    3300020: monolithPreCut_monolith29
+    3300022: monolithPreCut_monolith29 1
+    3300024: monolithPreCut_monolith30
+    3300026: monolithPreCut_monolith30 1
+    3300028: monolithPreCut_monolith31
+    3300030: monolithPreCut_monolith31 1
+    4300000: monolith
+    4300002: monolith1
+    4300004: monolith2
+    4300006: monolith3
+    4300008: monolith
+    4300010: monolith1
+    4300012: monolith2
+    4300014: monolith3
+    4300016: monolithPreCut_monolith27
+    4300018: monolithPreCut_monolith29
+    4300020: monolithPreCut_monolith30
+    4300022: monolithPreCut_monolith31
+    4300024: monolithPreCut_monolith27
+    4300026: monolithPreCut_monolith29
+    4300028: monolithPreCut_monolith30
+    4300030: monolithPreCut_monolith31
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
