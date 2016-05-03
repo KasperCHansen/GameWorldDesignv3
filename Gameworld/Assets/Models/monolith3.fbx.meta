@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b6b9bf9e1a1bca5499e7dd2ba4664dbb
-timeCreated: 1462306865
+guid: 3fbdf1f6d37810744a009511d04fc66f
+timeCreated: 1462311530
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -27,7 +27,7 @@ ModelImporter:
     4300002: monolithPreCut_monolith29
     4300004: monolithPreCut_monolith30
     4300006: monolithPreCut_monolith31
-    7400000: monolith2_animation
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -51,8 +51,8 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: monolith2_animation
-      takeName: monolith2_animation
+      name: Take 001
+      takeName: Take 001
       firstFrame: 1
       lastFrame: 800
       wrapMode: 0
