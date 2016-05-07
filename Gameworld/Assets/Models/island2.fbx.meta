@@ -1,17 +1,20 @@
 fileFormatVersion: 2
-guid: d92decaa50c06364ea6ce5a35f942780
-timeCreated: 1459323466
+guid: 0dac0b898538c7b47b5fffe0c35214b2
+timeCreated: 1462626836
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pCube1
+    100002: polySurface23
+    100004: polySurface70
     400000: //RootNode
-    400002: pCube1
-    2300000: pCube1
-    3300000: pCube1
-    4300000: pCube1
+    400002: polySurface23
+    400004: polySurface70
+    2300000: polySurface70
+    3300000: polySurface70
+    4300000: polySurface70
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -70,7 +73,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
