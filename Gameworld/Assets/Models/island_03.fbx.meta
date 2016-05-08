@@ -1,15 +1,23 @@
 fileFormatVersion: 2
-guid: 4591d24670ac65f4a8ed86618849e8cd
-timeCreated: 1460552880
+guid: 911e902d1d933624b9889ce8c4268855
+timeCreated: 1462722641
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: innerLight
+    100000: bottomObject
+    100002: //RootNode
+    100004: surfaceObject
+    400000: bottomObject
+    400002: //RootNode
+    400004: surfaceObject
+    2300000: bottomObject
+    2300002: surfaceObject
+    3300000: bottomObject
+    3300002: surfaceObject
+    4300000: surfaceObject
+    4300002: bottomObject
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -68,7 +76,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
