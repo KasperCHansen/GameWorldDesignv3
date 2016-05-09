@@ -4,18 +4,19 @@ using System.Collections;
 public class Float : MonoBehaviour {
 	public float amplitude;          //Set in Inspector 
 	public float speed;                  //Set in Inspector 
-	private float tempVal;
-	private Vector3 tempPos;
+	private Vector3 moveTo;
+    private Vector3 position;
 
 	void Start () 
 	{
-		tempVal = transform.position.y;
-	}
+        position = transform.position;
+    }
 
 	void Update () 
-	{        
-		tempPos.y = tempVal + amplitude * Mathf.Sin(speed * Time.time);
-		transform.position = tempPos;
+	{
+        moveTo = transform.position;
+		moveTo.y = position.y + amplitude * Mathf.Sin(speed * Time.time);
+		transform.position = moveTo;
 	}
 
 }
