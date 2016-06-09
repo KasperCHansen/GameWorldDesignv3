@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Float.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />
     <Compile Include="Assets\Scripts\fog.cs" />
+    <Compile Include="Assets\Scripts\soundOnHit.cs" />
     <Compile Include="Assets\SimpleTrigger\Scripts\SimpleTrigger.cs" />
     <Compile Include="Assets\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
     <Compile Include="Assets\Sky FX Pack\Scripts\LookAtBehaviour.cs" />
