@@ -1,22 +1,15 @@
 fileFormatVersion: 2
-guid: 7803bc6198eb3b442a886b3cae03046a
-timeCreated: 1462901026
+guid: c4c94a8db9136574185b226cf31c6f65
+timeCreated: 1465349198
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: treeFoot
-    100004: treeHead
     400000: //RootNode
-    400002: treeFoot
-    400004: treeHead
-    2300000: treeFoot
-    2300002: treeHead
-    3300000: treeFoot
-    3300002: treeHead
-    4300000: treeFoot
-    4300002: treeHead
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Head
     9500000: //RootNode
   materials:
     importMaterials: 1

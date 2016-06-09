@@ -1,22 +1,33 @@
 fileFormatVersion: 2
-guid: 7803bc6198eb3b442a886b3cae03046a
-timeCreated: 1462901026
+guid: ab14f3ea1969b42438418c5a8237e885
+timeCreated: 1465437807
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: treeFoot
-    100004: treeHead
+    100002: monolithPreCut_monolith27
+    100004: monolithPreCut_monolith29
+    100006: monolithPreCut_monolith30
+    100008: monolithPreCut_monolith31
     400000: //RootNode
-    400002: treeFoot
-    400004: treeHead
-    2300000: treeFoot
-    2300002: treeHead
-    3300000: treeFoot
-    3300002: treeHead
-    4300000: treeFoot
-    4300002: treeHead
+    400002: monolithPreCut_monolith27
+    400004: monolithPreCut_monolith29
+    400006: monolithPreCut_monolith30
+    400008: monolithPreCut_monolith31
+    2300000: monolithPreCut_monolith27
+    2300002: monolithPreCut_monolith29
+    2300004: monolithPreCut_monolith30
+    2300006: monolithPreCut_monolith31
+    3300000: monolithPreCut_monolith27
+    3300002: monolithPreCut_monolith29
+    3300004: monolithPreCut_monolith30
+    3300006: monolithPreCut_monolith31
+    4300000: monolithPreCut_monolith27
+    4300002: monolithPreCut_monolith29
+    4300004: monolithPreCut_monolith30
+    4300006: monolithPreCut_monolith31
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -58,8 +69,8 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 0
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 3
   importAnimation: 1
   copyAvatar: 0

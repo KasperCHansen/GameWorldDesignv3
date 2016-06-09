@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Float.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />
     <Compile Include="Assets\Scripts\fog.cs" />
+    <Compile Include="Assets\SimpleTrigger\Scripts\SimpleTrigger.cs" />
     <Compile Include="Assets\Sky FX Pack\Scripts\LightBeamsControlScript.cs" />
     <Compile Include="Assets\Sky FX Pack\Scripts\LookAtBehaviour.cs" />
     <Compile Include="Assets\Sky FX Pack\Scripts\LookAtCameraBehaviour.cs" />
@@ -83,6 +84,8 @@
     <Compile Include="Assets\Sky FX Pack\Scripts\ScrollBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\SimpleTrigger\License.txt" />
+    <None Include="Assets\SimpleTrigger\ReadMe.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
